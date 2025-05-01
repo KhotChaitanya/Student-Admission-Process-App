@@ -27,14 +27,14 @@ This project was built as part of academic coursework and demonstrates practical
 ## 🖥️ Screens / Output
 Below are the key screens from the app workflow:
 
-1. **Login Screen**
-
-<img src="https://github.com/user-attachments/assets/756630bb-bfd0-4841-86aa-7130b7ae1fa3" alt="Login" width="400"/>
-
-
-2. **Registration Screen**
+1. **Registration Screen**
 
 <img src="https://github.com/user-attachments/assets/b7b31d4d-504d-490c-aed7-bbfc4c5250d8" alt="Registration" width="400"/>
+
+
+2. **Login Screen**
+
+<img src="https://github.com/user-attachments/assets/756630bb-bfd0-4841-86aa-7130b7ae1fa3" alt="Login" width="400"/>
 
 
 
@@ -45,7 +45,8 @@ Below are the key screens from the app workflow:
 
 4. **Update Details Screen**
 
-<img src="https://github.com/user-attachments/assets/ea9f8999-e42c-4278-a871-db130db66c08" alt="UpdateScreen" width="400"/>
+<img src="https://github.com/user-attachments/assets/f010584f-3e07-4e77-958a-e6b238257933" alt="UpdateScreen" width="400"/>
+
 
 
 5. **Display Details Screen**
