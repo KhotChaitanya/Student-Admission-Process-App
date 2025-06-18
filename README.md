@@ -7,7 +7,7 @@ This project was built as part of academic coursework and demonstrates practical
 
 ---
 
-## 📚 Tech Stack
+## Tech Stack
 - **Android Studio** (Development IDE)
 - **Java** (Programming Language)
 - **SQLite** (Local Database)
@@ -15,7 +15,7 @@ This project was built as part of academic coursework and demonstrates practical
 
 ---
 
-## 🚀 Features
+## Features
 - **User Registration**
 - **Login Authentication**
 - **Update Student Details**
@@ -24,7 +24,7 @@ This project was built as part of academic coursework and demonstrates practical
 
 ---
 
-## 🖥️ Screens / Output
+## Screens / Output
 Below are the key screens from the app workflow:
 
 1. **Registration Screen**
@@ -61,7 +61,7 @@ Below are the key screens from the app workflow:
 
 ---
 
-## 📝 How It Works
+## How It Works
 - User starts at the **Login Screen** and can register if not already signed up.
 - On successful login, user is redirected to the **Dashboard** where they can update or display their details.
 - Data is stored and retrieved from **SQLite Database**.
@@ -69,7 +69,7 @@ Below are the key screens from the app workflow:
 
 ---
 
-## 💪 Skills Gained
+## Skills Gained
 - Android UI Design with XML
 - Java Programming for Mobile Apps
 - SQLite Database Operations
@@ -77,5 +77,5 @@ Below are the key screens from the app workflow:
 
 ---
 
-## 🔗 Connect
+## Connect
 Feel free to check out this project on LinkedIn as part of my portfolio.
